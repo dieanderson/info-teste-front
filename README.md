@@ -1,6 +1,10 @@
-# InfoTesteFront
+<img width="1406" alt="img_front_info" src="https://user-images.githubusercontent.com/85021274/158585957-3c885d49-ef96-4063-b8b0-df7dffac233b.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+## Informações sobre Info-Teste-Front
+
+Este projeto foi desenvolvido utilizando [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+
+Este Front consome a API info-teste utilizando todos os métodos CRUD disponibilizados na mesma
 
 ## Development server
 
